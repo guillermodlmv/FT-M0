@@ -1,0 +1,26 @@
+<style>
+            .encabezado{
+                text-align: center;  
+                height:30px;
+                Border: black;
+                background:grey;
+                line-height:32px;
+                vertical-align: middle;
+            }
+            .recalcar{
+                text-align: left;
+                text-decoration: underline; 
+            }
+            img{
+                float: right;
+                height:130px
+
+            }
+            .textoGeneral{
+                text-align: justify;
+            }
+            .skills{
+                float: right;
+                
+            }
+        </style>
