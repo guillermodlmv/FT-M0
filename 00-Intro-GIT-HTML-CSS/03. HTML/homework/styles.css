@@ -1,0 +1,23 @@
+
+                h1{
+                    color:saddlebrown;}
+                img{ 
+                    width:400px;
+                   
+                }
+                #thirdDiv{
+                    text-align: center;
+                    height: 700px;
+                    width:500px;
+                    padding:50px;
+                    border: black 3px dashed;
+                    background-color:burlywood;
+
+                 }
+                #spanId{
+                    font-size:18px;
+                    margin:50px; 
+                }
+               .centrado{
+                   text-align: center;
+               }
